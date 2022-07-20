@@ -5,13 +5,13 @@
  - `🤝 I’m looking to collaborate with other developers,`
  - `🤫 Fun fact: I love CSS.` 
 
-<hr></hr>
 
+<hr></hr>
 <div align="center">
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ev-geniusss&show_icons=true&theme=gotham&hide=dark)](https://github.com/anuraghazra/github-readme-stats)
   
-
+<hr></hr>
 
 <p align="center" align='right'>
   <a target="_blank" href="mailto:tabunov370@mail.ru"><img
