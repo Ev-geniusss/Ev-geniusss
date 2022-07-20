@@ -1,9 +1,9 @@
-<img align="right" width="350" alt="GIF" src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47guq07vqxyyeb82qdgqb7ekwpszlnqolhgpn0u8ni&rid=giphy.gif"/>
+<img align="right" width="350" alt="GIF" src="https://webformyself.com/wp-content/uploads/2017/46/1.gif"/>
 
 ### <p>A little more about me: <img src="https://i.gifer.com/origin/3f/3fcf565ccc553afcfd89858c97304705_w200.gif" width="60"></p>
  - `👨🏻‍💻 I'm currently studying: TypeScript,`
  - `🤝 I’m looking to collaborate with other developers,`
- - <p>🤫 Fun fact: I love CSS. <img src="https://gifer.com/ru/gifs/css" width="60"></p> 
+ - `🤫 Fun fact: I love CSS.` 
 
 ### My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarovfrontend&layout=compact&langs_count=6&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
