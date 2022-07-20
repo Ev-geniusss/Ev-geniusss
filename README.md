@@ -5,6 +5,7 @@
  - `🤝 I’m looking to collaborate with other developers,`
  - `🤫 Fun fact: I love CSS.` 
 
+<hr></hr>
 
 <div align="center">
 
