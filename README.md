@@ -1,4 +1,4 @@
-<img align="right" width="350" alt="GIF" src="https://webformyself.com/wp-content/uploads/2017/46/1.gif"/>
+<img align="right" width="350" alt="GIF" src="https://i.gifer.com/77M0.gif"/>
 
 ### <p>A little more about me: <img src="https://i.gifer.com/origin/3f/3fcf565ccc553afcfd89858c97304705_w200.gif" width="60"></p>
  - `👨🏻‍💻 I'm currently studying: TypeScript,`
