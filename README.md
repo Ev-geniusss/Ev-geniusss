@@ -1,4 +1,4 @@
-<iframe src="https://gifer.com/embed/77M0" width=480 height=360.694 frameBorder="0" allowFullScreen></iframe>
+<img align="right" width="350" alt="GIF" src="https://i.gifer.com/origin/d4/d45e67ff0c0af1c72be7bfa71977e1ad.gif"/>
 
 ### <p>A little more about me: <img src="https://i.gifer.com/origin/3f/3fcf565ccc553afcfd89858c97304705_w200.gif" width="60"></p>
  - `👨🏻‍💻 I'm currently studying: TypeScript,`
