@@ -1,9 +1,4 @@
-![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)
 
-<hr></hr>
-
-
-<hr></hr>
 
 <p align="center" align='right'>
   <a target="_blank" href="mailto:darsenungarlinov00@gmail.com"><img
