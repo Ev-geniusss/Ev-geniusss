@@ -5,8 +5,6 @@
  - `🤝 I’m looking to collaborate with other developers,`
  - `🤫 Fun fact: I love CSS.` 
 
-### My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ev-geniusss&layout=compact&langs_count=6&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 
