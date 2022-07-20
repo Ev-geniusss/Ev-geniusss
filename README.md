@@ -6,12 +6,13 @@
  - `🤫 Fun fact: I love CSS.` 
 
 ### My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarovfrontend&layout=compact&langs_count=6&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ev-geniusss&layout=compact&langs_count=6&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-<p dir="auto"><br><br></p>
+<div align="center">
 
-<div align="center" dir="auto">
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/98b1ccd26dea8388b4edb81ff70e96dad6e96bfef05304431597f1f0534b6bb0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/98b1ccd26dea8388b4edb81ff70e96dad6e96bfef05304431597f1f0534b6bb0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&amp;logo=javascript" style="max-width: 100%;"></a>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ev-geniusss&show_icons=true&theme=gotham&hide=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ev-geniusss&layout=compact&langs_count=10&theme=gotham&?)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center" align='right'>
